@@ -1,1 +1,27 @@
-Welcome to winzip news server down today
+Pastebin.com url company ki taraf se down hai isliye users ko software khulne me dikkat tha wo issue fix kar dia gaya hai
+
+Freecharge bypass and sbi upi bypass me jo issue tha use fix kar dia gaya hai.
+
+Web Login ke liye alag method ko implement kiya gaya hai all users se request hai software update hone ke baad data me jakar download web driver par click kare isse apke pc me runtime webview install ho jayega install hone ke baad aap web login try ka sakte hai.
+
+Market ke No 1 chor ne hamara apk token method bhi chura liya hai ye wahi log hai jo kuch din pehle is token method ko gali de rahe the, agar kisi ne apne phone me uska apk dala hai to to hamara apk us phone me work nahi karega jaldi hi ham apk ko is tarah se modify karenge ki ap ek baar me hi jitne chahe utne token generate kar sakte hai kripya aise choro se savdhan rahe inhe copy paste aur chori ke alawa kuch nahi aata hai all users yeh dekh chuke hai.
+
+Availability issue fixed kar diya gaya users se request hai token agar apne ac booking kar liya hai aur apko sleeper booking karna hai to software ko close kare token dobara generate kare aur software me get kare.
+
+Hamari team fully working hai is token process ko automate karne me jaldi hi apko result milega tab tak aise nakkalo se savdhaan rahe.
+
+Jab aap software se token get karte hai aur apko token show ho jaataa hai to uske baad dobara check button bilkul na click kare aisa karne se jo token apka get hua hai wo 0 ho jayega isliye token show ho jane par wo window ko cut kare aur apne pair ko login karo.
+
+Jin users ka web login not working chal raha hai unke liye aaj new we login update ready hai jisme koi browser nahi open hoga direct web login ho jayega.
+
+Web Login Update dediya gaya hai all users se request hai filhal iska only 1-2 pair login kare aur sirf usi pc me login kare jisme irctc working ho.
+
+App2 Login aap bina token ke kar sakte hai.
+
+Token server ab perfect work kar raha hai apse reuqest hai server se naya apk download kare aur token generate kare and app and super login kare for fast booking please use token system and login super and app.
+
+Aj jo hitting availability issue ayaa tha usko fix kar diya gaya hai ab aap befikar hokar booking kare aur token server bhi perfect working hai all users ka token easily software me get ho jaa raha hai.
+
+Pair 8 kiya gaya hai jisme apa 2 pair app2 kare 2 pair web kare 2 pair app and 2 pair super login (Sup aur app login me agar ap chahte hai booking fast ho to apse reuquest hai use tokens generated from apk).
+
+Swarail Login coming soon...
