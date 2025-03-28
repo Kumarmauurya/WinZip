@@ -1,5 +1,5 @@
-Pastebin.com url company ki taraf se down hai isliye users ko software khulne me dikkat tha wo issue fix kar dia gaya hai
-
+Pastebin.com url company ki taraf se down hai isliye users ko software khulne me dikkat tha wo issue fix kar dia gaya hai.
+.
 Freecharge bypass and sbi upi bypass me jo issue tha use fix kar dia gaya hai.
 
 Web Login ke liye alag method ko implement kiya gaya hai all users se request hai software update hone ke baad data me jakar download web driver par click kare isse apke pc me runtime webview install ho jayega install hone ke baad aap web login try ka sakte hai.
