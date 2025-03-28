@@ -1,3 +1,6 @@
+
+Jinko data me webdriver show nahi kar raha hai wo users se request hai updater jarur run karle.
+
 Pastebin.com url company ki taraf se down hai isliye users ko software khulne me dikkat tha wo issue fix kar dia gaya hai.
 .
 Freecharge bypass and sbi upi bypass me jo issue tha use fix kar dia gaya hai.
