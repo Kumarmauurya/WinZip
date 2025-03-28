@@ -1,5 +1,11 @@
 All issues fix kar diya gaya hai web login bhi aap ek pair try kar sakte hai mostly web login vps par nahi normal pc par login ho raha hai web login ke liye data me jakar web driver download and install jarur kare.
 
+App2 login bina koi token ke aap login kar sakte hai.
+
+All login agar apne token generated nahi kiya to work karega but ham yehi kahenge ap token generate karke hi kaam kare for faster booking aur total window utne hi khole jitne token apne banaye hai Ex apne 15 token generate kiye hai aur apko 3 form lagana hai to aap har form ka 5 pair total 15 window open kare yeh trick follow karne se apki booking bahot fast hogi.
+
+Next update me ham apko token apk denge jisme apko only apk open karna hai aur jitne token generate karne hai wo enter karna hai and submit kar dena apke utne token auto geenrated ho jayenge.
+
 All users validity increased by 10days.
 .
 Freecharge bypass and sbi upi bypass me jo issue tha use fix kar dia gaya hai.
@@ -14,16 +20,6 @@ Hamari team fully working hai is token process ko automate karne me jaldi hi apk
 
 Jab aap software se token get karte hai aur apko token show ho jaataa hai to uske baad dobara check button bilkul na click kare aisa karne se jo token apka get hua hai wo 0 ho jayega isliye token show ho jane par wo window ko cut kare aur apne pair ko login karo.
 
-Jin users ka web login not working chal raha hai unke liye aaj new we login update ready hai jisme koi browser nahi open hoga direct web login ho jayega.
-
-Web Login Update dediya gaya hai all users se request hai filhal iska only 1-2 pair login kare aur sirf usi pc me login kare jisme irctc working ho.
-
-App2 Login aap bina token ke kar sakte hai.
-
 Token server ab perfect work kar raha hai apse reuqest hai server se naya apk download kare aur token generate kare and app and super login kare for fast booking please use token system and login super and app.
-
-Aj jo hitting availability issue ayaa tha usko fix kar diya gaya hai ab aap befikar hokar booking kare aur token server bhi perfect working hai all users ka token easily software me get ho jaa raha hai.
-
-Pair 8 kiya gaya hai jisme apa 2 pair app2 kare 2 pair web kare 2 pair app and 2 pair super login (Sup aur app login me agar ap chahte hai booking fast ho to apse reuquest hai use tokens generated from apk).
 
 Swarail Login coming soon...
