@@ -14,6 +14,8 @@ Token ko aur modify kiya gaya hai agar ap token generate nahi karna chahte hai t
 
 Login 50 tak kar de all pairs.
 
+Booking time 8 pair open honge normal time only 2 pairs
+
 Booking se pehle ccleaner aur system restart kar le for faster and smoother web login.
 
 App , super and app2 ko bhi pehle se bahot optimize kia gaya hai.
