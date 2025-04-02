@@ -1,3 +1,5 @@
+backup and restore par jo hang issue tha use fix kar dia gaya hai all users version jarur check kar le Latest version 80 ya usse jada hona chaiyya
+
 Web Login Updated apse request hai ek form ke liye web ke only 1-2 pair hi login kare.
 
 Web Login ke liye one time driver jarur install kar le driver agar apne install ni kia hai to data me jakar get web driver par click kare jo files download hoti hai use install kar le.
