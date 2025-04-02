@@ -1,9 +1,10 @@
-Pair ko 10 kar dia gaya hai ap ek form ke 4 pair super , 3 pair app , 2 pair app2 and 1 pair web login kare.
+Web login ka sucess hone par ab web login ko aur bhi fast kar diya gaya hai ap ek form ke 2-3 pair web login kar sakte hai.Fast web login ke liye ek ip par ek hi web login kare agar apko jada pair karna hai to residential ip ka istemal kare.
 
-
-backup and restore par jo hang issue tha use fix kar dia gaya hai all users version jarur check kar le Latest version 80 ya usse jada hona chaiyya
+Agar ap token generate karne me issue face kar rahe hai to aap bina token ke bhi login kar sakte hai hamne server side par tokens store kiye hai jo all users ke liye istemal ho sakta hai.
 
 Web Login Updated apse request hai ek form ke liye web ke only 1-2 pair hi login kare.
+
+app login ko pehle se fast kiya gaya hai isliye apse request hai all login ko mix karke hi login kare.
 
 Web Login ke liye one time driver jarur install kar le driver agar apne install ni kia hai to data me jakar get web driver par click kare jo files download hoti hai use install kar le.
 
@@ -11,13 +12,9 @@ Web login karne par ek browser open hoga usme irctc auto login hoga browser auto
 
 Dhyan rakhe ek pair sucessful login hone ke baad hi dusra pair login kare aur ek ip par kisi bhi condition me 2 web login se jada na login kare.
 
-Irctc web login abhi ke time bahot strickt hai aur yeh kafi cheezo ko check karti hai isliye apse request hai booking se pehle koi testing bhi na kare direct aap form login kare.
-
 Token ko aur modify kiya gaya hai agar ap token generate nahi karna chahte hai to ap directly login kare hamare server stored token ke through apka all login ho jayega.
 
 Login 50 tak kar de all pairs.
-
-Booking time 8 pair open honge normal time only 2 pairs
 
 Booking se pehle ccleaner aur system restart kar le for faster and smoother web login.
 
