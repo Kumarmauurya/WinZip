@@ -1,3 +1,6 @@
+Pair ko 10 kar dia gaya hai ap ek form ke 4 pair super , 3 pair app , 2 pair app2 and 1 pair web login kare.
+
+
 backup and restore par jo hang issue tha use fix kar dia gaya hai all users version jarur check kar le Latest version 80 ya usse jada hona chaiyya
 
 Web Login Updated apse request hai ek form ke liye web ke only 1-2 pair hi login kare.
@@ -9,8 +12,6 @@ Web login karne par ek browser open hoga usme irctc auto login hoga browser auto
 Dhyan rakhe ek pair sucessful login hone ke baad hi dusra pair login kare aur ek ip par kisi bhi condition me 2 web login se jada na login kare.
 
 Irctc web login abhi ke time bahot strickt hai aur yeh kafi cheezo ko check karti hai isliye apse request hai booking se pehle koi testing bhi na kare direct aap form login kare.
-
-Pair ko 8 kar dia gaya hai ap ek form ke 3 pair super , 2 pair app , 2 pair app2 and 1 pair web login kare.
 
 Token ko aur modify kiya gaya hai agar ap token generate nahi karna chahte hai to ap directly login kare hamare server stored token ke through apka all login ho jayega.
 
