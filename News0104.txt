@@ -4,7 +4,6 @@ Next update me web login ko fully automate yani bina browser open ke kar dia jay
 
 Agar ap token generate karne me issue face kar rahe hai to aap bina token ke bhi login kar sakte hai hamne server side par tokens store kiye hai jo all users ke liye istemal ho sakta hai.
 
-Web Login Updated apse request hai ek form ke liye web ke only 1-2 pair hi login kare.
 
 app login ko pehle se fast kiya gaya hai isliye apse request hai all login ko mix karke hi login kare.
 
