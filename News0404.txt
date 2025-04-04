@@ -1,0 +1,22 @@
+Web login ka sucess hone par ab web login ko aur bhi fast kar diya gaya hai ap ek form ke 2-3 pair web login kar sakte hai.Fast web login ke liye ek ip par ek hi web login kare agar apko jada pair karna hai to residential ip ka istemal kare.
+
+Next update me web login ko fully automate yani bina browser open ke kar dia jayega.
+
+Agar ap token generate karne me issue face kar rahe hai to aap bina token ke bhi login kar sakte hai hamne server side par tokens store kiye hai jo all users ke liye istemal ho sakta hai.
+
+
+app login ko pehle se fast kiya gaya hai isliye apse request hai all login ko mix karke hi login kare.
+
+Web Login ke liye one time driver jarur install kar le driver agar apne install ni kia hai to data me jakar get web driver par click kare jo files download hoti hai use install kar le.
+
+Web login karne par ek browser open hoga usme irctc auto login hoga browser automatic close ho jane ke baad apka web login ho jayega
+
+Dhyan rakhe ek pair sucessful login hone ke baad hi dusra pair login kare aur ek ip par kisi bhi condition me 2 web login se jada na login kare.
+
+Token ko aur modify kiya gaya hai agar ap token generate nahi karna chahte hai to ap directly login kare hamare server stored token ke through apka all login ho jayega.
+
+Login 50 tak kar de all pairs.
+
+Booking se pehle ccleaner aur system restart kar le for faster and smoother web login.
+
+App , super and app2 ko bhi pehle se bahot optimize kia gaya hai.
