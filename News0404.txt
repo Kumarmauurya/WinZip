@@ -1,3 +1,6 @@
+All users ko pata hai ki wo bina token ke bhi login kar sakte hai but ham apse yehi kahenge ki agar ap token generate karke kaam karenge to apka kaam aur accha hoga agar kabhi aap token nahi generate kar paaye ya form late ayaa to aap bina token ke login kar sakte hai.
+
+
 Web login ab bina koi browser ke open hoga all users 1-2 pair web login kar sakte hai ise aur fast kia gaya hai.
 
 winzip panel winzippanel.com par create free demo par click kare aur aap demo 2days istemal kar sakte hai.
