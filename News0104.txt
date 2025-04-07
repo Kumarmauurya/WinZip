@@ -1,5 +1,10 @@
-All users ko pata hai ki wo bina token ke bhi login kar sakte hai but ham apse yehi kahenge ki agar ap token generate karke kaam karenge to apka kaam aur accha hoga agar kabhi aap token nahi generate kar paaye ya form late ayaa to aap bina token ke login kar sakte hai.
+Password change and sync all id option ko sahi kar diya gaya hai but aap dhyan rakhe yeh cheeze aap bina residential rotating proxy ke bilkul bhi na kare aur password change aap booking ke baad hi kar payenge.
 
+Jin users ko hitting availability me issue tha unse request hai ki ek ip par 2 pair se jada login bilkul bhi na kare.
+
+Web login pehle se fast kiya gaya hai aap 1-2 pair web login bhi kare.
+
+All users ko pata hai ki wo bina token ke bhi login kar sakte hai but ham apse yehi kahenge ki agar ap token generate karke kaam karenge to apka kaam aur accha hoga agar kabhi aap token nahi generate kar paaye ya form late ayaa to aap bina token ke login kar sakte hai.
 
 Web login ab bina koi browser ke open hoga all users 1-2 pair web login kar sakte hai ise aur fast kia gaya hai.
 
