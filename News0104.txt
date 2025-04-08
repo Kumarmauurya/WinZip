@@ -1,3 +1,5 @@
+Please generate token from apk for changing password or syncing irctc ids
+
 Password change and sync all id option ko sahi kar diya gaya hai but aap dhyan rakhe yeh cheeze aap bina residential rotating proxy ke bilkul bhi na kare aur password change aap booking ke baad hi kar payenge.
 
 Jin users ko hitting availability me issue tha unse request hai ki ek ip par 2 pair se jada login bilkul bhi na kare.
