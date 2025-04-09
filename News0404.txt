@@ -1,38 +1,19 @@
-Hitting availability issue fixed kar dia gaya hai. Users se request hai 1 ip par 2 hi pair login kare usse jada karne par aapko booking me issue ho sakta hai.
+WINZIP APP , SUPER,APP2 ,WEB UPDATE DONE.
 
-Please generate token from apk for changing password or syncing irctc ids
+PASSWORD CHANGE AND SYNC ID ONLY RESIDENTIAL PROXY KE THROUGH HI KARE.
 
-Password change and sync all id option ko sahi kar diya gaya hai but aap dhyan rakhe yeh cheeze aap bina residential rotating proxy ke bilkul bhi na kare aur password change aap booking ke baad hi kar payenge.
+IS UPDATED ME AAPKA ALL PAIR SMOOTHLY LOGIN HOGA KOI PAIR AVAILABILITY PE NAHI RUKEGA OR SAB PAIR PAYMENT PE JAEGA OR FINAL HITTING ISSUES KO FIX KAR DIYA GAYA HAI YE UPDATE ME AAPKA KAAM EK DAM MAKKHAN KE JAISE HOGA.. 
 
-Jin users ko hitting availability me issue tha unse request hai ki ek ip par 2 pair se jada login bilkul bhi na kare.
+IS UPDATED ME TOKEN SYSTEM HATA DIYA GAYA HAI AAP LOG DIRECT ALL LOGIN KAR SAKTE HO OR PASSANGER COUNTDOWN 5-10 SECOND KO BHI BYPASS KAR DIYA GAYA HAI ISSE AAPKA PAIR BAHUT FAST PAYMENT PAGE PE JAEGA OR PNR GENERATED HO JAYEGA 
 
-Web login pehle se fast kiya gaya hai aap 1-2 pair web login bhi kare.
+VERY IMPORTANT IS UPDATED ME VPN SYSTEM HATA DIYA GAYA HAI AGAR AAPKO JYADA PAIR LOGIN KARNA HAI TO AAPKO APNA IP LAGANA PADEGA QKI HAMARE KUCH DUSMAN ATTACK KARKE DATA KHATM KAR DETE HAI ISLIYE VPN HATA DIYA GAYA HAI 
 
-All users ko pata hai ki wo bina token ke bhi login kar sakte hai but ham apse yehi kahenge ki agar ap token generate karke kaam karenge to apka kaam aur accha hoga agar kabhi aap token nahi generate kar paaye ya form late ayaa to aap bina token ke login kar sakte hai.
+NOTE :- WINZIP ME TOTAL 15 PAIR UPDATE KAR DIYA GAYA HAI AAP LOG ENJOY KIJIYE 
 
-Web login ab bina koi browser ke open hoga all users 1-2 pair web login kar sakte hai ise aur fast kia gaya hai.
+Pair limit BOOKING ke wakt 15 kar diya gaya hai market dekh ke pair badha denge use Karo bindass jab tak irctc fir se update na dede aur sare bugs ko hata na de.
 
-winzip panel winzippanel.com par create free demo par click kare aur aap demo 2days istemal kar sakte hai.
+LOGIN ISSUES, AVAIBILITY ISSUES, 10000% FIX KAR DIYA GAYA HAI AAP LOG ENJOY KIJIYE. 
 
-Web login ka sucess hone par ab web login ko aur bhi fast kar diya gaya hai ap ek form ke 2-3 pair web login kar sakte hai.Fast web login ke liye ek ip par ek hi web login kare agar apko jada pair karna hai to residential ip ka istemal kare.
+Super smooth login jaise aap bina akamai ke karte the.
 
-Next update me web login ko fully automate yani bina browser open ke kar dia jayega.
-
-Agar ap token generate karne me issue face kar rahe hai to aap bina token ke bhi login kar sakte hai hamne server side par tokens store kiye hai jo all users ke liye istemal ho sakta hai.
-
-
-app login ko pehle se fast kiya gaya hai isliye apse request hai all login ko mix karke hi login kare.
-
-Web Login ke liye one time driver jarur install kar le driver agar apne install ni kia hai to data me jakar get web driver par click kare jo files download hoti hai use install kar le.
-
-Web login karne par ek browser open hoga usme irctc auto login hoga browser automatic close ho jane ke baad apka web login ho jayega
-
-Dhyan rakhe ek pair sucessful login hone ke baad hi dusra pair login kare aur ek ip par kisi bhi condition me 2 web login se jada na login kare.
-
-Token ko aur modify kiya gaya hai agar ap token generate nahi karna chahte hai to ap directly login kare hamare server stored token ke through apka all login ho jayega.
-
-Login 50 tak kar de all pairs.
-
-Booking se pehle ccleaner aur system restart kar le for faster and smoother web login.
-
-App , super and app2 ko bhi pehle se bahot optimize kia gaya hai.
+Pax countdown bypass only super login me hoga isliye super app and app2 sab mix login kare.
