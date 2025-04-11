@@ -1,4 +1,6 @@
-Pax countdown bypass 5-10sec only super login me hoga iske liye apse request hai kahi par tick na yeh by default hoga site ki condition ko dekh kar.
+Web Login bug ko fix kar diya gaya hai aap web login bhi pehle ki tarah istemal kar sakte hai web login aap 50 par kar de ek pair login hone ke baad hi dusra pair login kare aur dhyan rahe 1 ip par 2 pair hi login kare aur agar apko jada pair login karna hai to apse request hai residential proxy ka istemal kare.
+
+Pax countdown bypass 5-10sec only super login me and Ac & SL Booking me hoga iske liye apse request hai kahi par tick na yeh by default hoga site ki condition ko dekh kar.
 
 WINZIP APP , SUPER,APP2 ,WEB UPDATE DONE.Note WinZip vpn jo slot 1 and 2 par active hota tha jab aap 2 pair se jada login karte the wo ab active nahi hoga isliye slot 1 and 2 par only 2 pair login kare uske baad residential proxy save kare uspe jitna marji utna pair login kare dhyan rakhe only residential proxy pe hi jada pair kare normal proxy par 2 hi pair kare for faster booking.
 
