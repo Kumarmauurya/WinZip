@@ -1,0 +1,12 @@
+Dear users jaise ke ap sab ko pata hai pura market ka software ab ek hi akamai token ka bug use kar raha hai jis wajah se irctc bug ko detect karke booking slow kar rahi hai is bug se login to bahot fast hoga but submit passenger par apko issue face hoga.
+
+Isliye hamne APP2 login ko valid token ke jariye login karane ka method update kia hai iske liye aapko winzippanel.com se WinZip_Token_Generator.apk download kare is apk ko mobile me install kare yadi pehle se koi irctc apk dala hua hai to use aap uninstall kar de.
+
+Install ke baad ap apk ko open kare login par click kare waha par ap winzip user id enter kare aur number of tokens me apko jitna window login karna hai wo enter kare maximum aap 15 token generate kar sakte hai aur APP2 ke 15 window login kar sakte hai. 
+
+Token generate karke aap us token ko software me get kar le aur jitna token show hua hai utne window APP2 ke login kar de.
+
+Note:- ye ek Optional feature hai aur tokens only APP2 Login par hi chalega hamne yeh update isliye diya hai taki aap khud compare kar sake bug v/s orignal token. Agar aap token nahi generate karna chahte hai to bhi aap software ko pehle jaise hi istemal kar sakte hai.
+
+
+
