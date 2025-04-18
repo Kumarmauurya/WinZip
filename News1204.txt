@@ -1,4 +1,4 @@
-News Dhyan se Padhe Winzip News...
+Ap bina token generate ke bhi login kar sakte hai lekin hamara yeh suggestion hai users ko wo token ke saath kaam kare isse unka booking fast hoga aur koi bhi step par rukega nahi kyuki tokens fresh and apk se generated hoga jisko irctc bilkul bhi detect ya low score nahi karega choice apki hai aap chahe to token generate karke login kare ya bina token ke.
 
 Token aap aap server se download kare aur use apne phone me install kare yadi pehle irctc app usme installed hai to use uninstall kar de.
 
