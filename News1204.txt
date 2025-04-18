@@ -1,12 +1,14 @@
-Dear users jaise ke ap sab ko pata hai pura market ka software ab ek hi akamai token ka bug use kar raha hai jis wajah se irctc bug ko detect karke booking slow kar rahi hai is bug se login to bahot fast hoga but submit passenger par apko issue face hoga.
+News Dhyan se Padhe Winzip News...
 
-Isliye hamne APP2 login ko valid token ke jariye login karane ka method update kia hai iske liye aapko winzippanel.com se WinZip_Token_Generator.apk download kare is apk ko mobile me install kare yadi pehle se koi irctc apk dala hua hai to use aap uninstall kar de.
+Token aap aap server se download kare aur use apne phone me install kare yadi pehle irctc app usme installed hai to use uninstall kar de.
 
-Install ke baad ap apk ko open kare login par click kare waha par ap winzip user id enter kare aur number of tokens me apko jitna window login karna hai wo enter kare maximum aap 15 token generate kar sakte hai aur APP2 ke 15 window login kar sakte hai. 
+Token se aap one time me 15 enter kare aur apna winzip id enter kare aur send par click kare aur wait kare jab tak message na show ho sent successfully yadi apko aur 15 token chaiyye to apk ko background se close kare aur fir se 15 generate kare aise karke ap jitna chahe utna token generate kar sakte hai.
+Better booking ke liye aap total utna hi window open kare jitna token apne generate Kiya hai example apne 15 token generate kar dia hai to aur apko 3 form ka booking karna hai to aap har form ka 5 , 5 , 5 pair open kare aur login aap sare mix kare App , super , app2 and web ka bhi 1-2 pair jarur login kare.
 
-Token generate karke aap us token ko software me get kar le aur jitna token show hua hai utne window APP2 ke login kar de.
+Aap token anytime generate kar sakte hai wo server par store hoga jab tak aap use software me get na kar le ek baar apne token get kar liya to wo token server se delete ho jayega.
 
-Note:- ye ek Optional feature hai aur tokens only APP2 Login par hi chalega hamne yeh update isliye diya hai taki aap khud compare kar sake bug v/s orignal token. Agar aap token nahi generate karna chahte hai to bhi aap software ko pehle jaise hi istemal kar sakte hai.
+Ap chahe to is time ya kabhi bhi token generate karke store kar le aur booking ke time jab aap software open kare to get token kar le uske baad software restart na kare warna token 0 ho jayega.
 
+Agar aapne token generate nahi kia hai fir bhi aap login kar skte hai but ham all users ko yehi suggest karenge wo token generate karke hi kaam kare jisse apka booking fast ho.
 
-
+Web login 1-2 pair jarur login kare.
