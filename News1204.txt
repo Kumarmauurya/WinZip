@@ -1,3 +1,5 @@
+WEb Login ko aur bhi fast kia gaya hai aur jo issue the usko fix kar dia gaya hai users se request hai 1-2 pair web login bhi kare.
+
 Freecharge bypass issue ko fix kar dia gaya hai. Version 90 ya usse jada hona chaiyye
 Web Login me final hit Pnr ke issue ko fix kar diya gaya hai
 Bina token ke login me jo issue tha use bhi fix kar dia gaya hai but ham apse yehi request karenge aap token generate karke hi kaam kare.
