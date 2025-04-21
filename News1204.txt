@@ -1,10 +1,12 @@
-WEb Login ko aur bhi fast kia gaya hai aur jo issue the usko fix kar dia gaya hai users se request hai 1-2 pair web login bhi kare.
+Web login me jo bug tha o issue solve kar diya gaya hai ab aap koi bhi ip se web login bindass kar sakte hai but ham apse kahenge ki aap fast ip ya home ip se hi web login kare.
 
-Freecharge bypass issue ko fix kar dia gaya hai. Version 90 ya usse jada hona chaiyye
-Web Login me final hit Pnr ke issue ko fix kar diya gaya hai
+Web login 100% working aur baki login se fast hai isliye apse request hai 2 pair atleast web login kare.
+
+Freecharge bypass issue ko fix kar dia gaya hai.
+
 Bina token ke login me jo issue tha use bhi fix kar dia gaya hai but ham apse yehi request karenge aap token generate karke hi kaam kare.
 
-8 Pair open hoga har form ke 2 pair web login jarur kare aur dhyan rakhe web login aap 1 ip par 2 hi pair kar rahe hai login usse jada na kare.
+10 Pair open hoga har form ke 2 pair web login jarur kare aur dhyan rakhe web login aap 1 ip par 2 hi pair kar rahe hai login usse jada na kare.
 
 Token aap aap server se download kare aur use apne phone me install kare yadi pehle irctc app usme installed hai to use uninstall kar de.
 
