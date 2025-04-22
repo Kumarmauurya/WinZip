@@ -1,4 +1,4 @@
-Web Login only slot 1 and 2 par hi kare ip slot par try kare agar sucess ni hota hai to only 1 and 2 par web login kare.
+Web Login Jada aap slot 1 and 2 par kare.
 
 Web login 100% working aur baki login se fast hai isliye apse request hai 2 pair atleast web login kare.
 
