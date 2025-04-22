@@ -1,5 +1,7 @@
 Web Login Jada aap slot 1 and 2 par kare.
 
+Opening me BHIMUPI gateway me issue tha all users se request hai is gateway ko avoid kare aur OTOPAY , IPAYUPI ,PHONEPE inka istemal kare taki apke koi bookings fail na ho
+
 Web login 100% working aur baki login se fast hai isliye apse request hai 2 pair atleast web login kare.
 
 Freecharge bypass issue ko fix kar dia gaya hai.
