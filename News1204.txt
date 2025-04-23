@@ -1,3 +1,5 @@
+Very strict news booking se pehle yani aap jab pair login karte hai usse pehle kam se 30 min tak koi bhi testing na kare aisa karne se apki booking kharab ho sakti hai isliye software open kare token get kare aur pair open kare test bilkul bhi na kare aur bina token app ya super ya app2 login bilkul na kare....Pehle token get kare 50Am par fir pair open kare.
+
 APse request hai home ip par yani slot 1 and 2 par aap only web login hi kare baki ip par aap token generate karke app2 , app ya super jo bhi login sucess hota hai wo login kar sakte hai but dhyan rahe token jarur generate kar le.
 
 Blocked vps me jo web login issue tha use fix kar dia gaya hai ap users fast ip add karke web login kare...Web login aap 50 se karna start kar de jab tak ek window wait for PG nahi hoti dusri bilkul login na kare.
