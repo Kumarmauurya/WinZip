@@ -1,3 +1,5 @@
+SLot 1 and 2 par web login kar de agar apka 2 pair bhi login ho jaa raha hai to apka kaam 100% hoga kyuki other koi bhi software working nahi hai aur site bahot smooth hai baki next update me slot ip par jo login issue hai kisi users ka usko permanent fix kar dia jayega
+
 Very strict news booking se pehle yani aap jab pair login karte hai usse pehle kam se 30 min tak koi bhi testing na kare aisa karne se apki booking kharab ho sakti hai isliye software open kare token get kare aur pair open kare test bilkul bhi na kare aur bina token app ya super ya app2 login bilkul na kare....Pehle token get kare 50Am par fir pair open kare.
 
 APse request hai home ip par yani slot 1 and 2 par aap only web login hi kare baki ip par aap token generate karke app2 , app ya super jo bhi login sucess hota hai wo login kar sakte hai but dhyan rahe token jarur generate kar le.
