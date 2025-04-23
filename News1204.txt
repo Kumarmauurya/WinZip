@@ -2,6 +2,8 @@ APse request hai home ip par yani slot 1 and 2 par aap only web login hi kare ba
 
 Blocked vps me jo web login issue tha use fix kar dia gaya hai ap users fast ip add karke web login kare...Web login aap 50 se karna start kar de jab tak ek window wait for PG nahi hoti dusri bilkul login na kare.
 
+Booking se pehle koi testing na kare direct form ko login kare 50 par aur pair limit ko 4 kia gaya hai jisme 2 pair aap apni home ip ke web login kare baki pair aap app login token generate karke try kare agar app login nahi hota hai to wo bhi pair aap web login kar de.
+
 Opening me BHIMUPI gateway me issue tha all users se request hai is gateway ko avoid kare aur OTOPAY , IPAYUPI ,PHONEPE inka istemal kare taki apke koi bookings fail na ho
 
 Web login 100% working aur baki login se fast hai isliye apse request hai 2 pair atleast web login kare.
