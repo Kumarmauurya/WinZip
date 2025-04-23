@@ -1,4 +1,4 @@
-Web Login Jada aap slot 1 and 2 par kare.
+APse request hai home ip par yani slot 1 and 2 par aap only web login hi kare baki ip par aap token generate karke app2 , app ya super jo bhi login sucess hota hai wo login kar sakte hai but dhyan rahe token jarur generate kar le.
 
 Opening me BHIMUPI gateway me issue tha all users se request hai is gateway ko avoid kare aur OTOPAY , IPAYUPI ,PHONEPE inka istemal kare taki apke koi bookings fail na ho
 
