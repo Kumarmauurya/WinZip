@@ -1,3 +1,9 @@
+Version 95 App , sup and app2 login update done all users apk se token generate karke hi pair open kare aur login kare agar apko is time test karna hai to aap only residential ip se test kare taki apki home ip kharab na ho.
+
+Bina token generate ke aap login nahi kar payenge aur aap utna hi window login kar payenge jitna token apne generate kia hai example apne 15 token generate kia hai to aap total mil kar app , sup and app2 ke 15 window khol payenge.
+
+Pair 4 honge 2 pair web login jarur kare web login karte wakt dhyan rakhe one time one window jab tak login na ho jaye dusri window ko login na kare.
+
 Web Login kare ek browser khulega wo auto close hoga agar 30-40 sec me close nahi hota hai to aap manually close kar de..50 se login start kar de working ip se login kare 1 ip par 2 hi pair login kare all ip proper work karegi blocked vps me slot me ip add karke login kare.
 
 SLot 1 and 2 par web login kar de agar apka 2 pair bhi login ho jaa raha hai to apka kaam 100% hoga kyuki other koi bhi software working nahi hai aur site bahot smooth hai baki next update me slot ip par jo login issue hai kisi users ka usko permanent fix kar dia jayega
