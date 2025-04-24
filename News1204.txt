@@ -1,3 +1,6 @@
+Please dont do app , sup and app2 login wait for update do only web login
+
+
 Version 95 App , sup and app2 login update done all users apk se token generate karke hi pair open kare aur login kare agar apko is time test karna hai to aap only residential ip se test kare taki apki home ip kharab na ho.
 
 Bina token generate ke aap login nahi kar payenge aur aap utna hi window login kar payenge jitna token apne generate kia hai example apne 15 token generate kia hai to aap total mil kar app , sup and app2 ke 15 window khol payenge.
