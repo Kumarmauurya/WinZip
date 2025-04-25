@@ -1,19 +1,10 @@
 Please Dhyan se Padhe...
-
 Booking ke 30 min pehle koi bhi pair login karke test bilkul bhi na kare aur normal time par bhi apko agar test karna hai to aap residential proxy se hi test kare.
-
 Jo issue the web login failed unko totally fix kar dia gaya hai , blocked vps issue me bhi aap winzip use kar sakte hai bus apko slot add karna hoga.
-
 App login and super login bhi ab kar sakte hai dhyan de super aur app login ke liye token must jaruri hai aur APP2 login bina token ke bhi login ho jayega ham APP2 ke jariye testing kar rahe hai to jo user token generate nahi kar rahe hai wo APP2 login kar de.
-
 Agar koi pair login failed issue deta hai to us pair ko dobara login kare 1-2 attempt me asaani se pair login ho jayenge.
-
 Total 4 pair khuelnge ap apne hisab se pair set kare aur web login aap 47 ke baad se bhi start kar sakte hai but ham yehi sugges karenge ki aap web login 50 ke baad hi kare.
-
 Web login ka browser jab open hota hai to ap use bilkul bhi touch na kare 30 sec ke andar browser auto close ho jayega agar 30 sec tak close nahi hota to aap todha wait karke manually close kar sakte hai.
-
 Jab tak ek pair sucessfull login na ho jaye dusra pair bilkul bhi na login kare aur try kare kam se kam pair open kare.
-
 Token ek baar agar apne 10 generate kia hai aur dobara apko 10 karna hai to pehle token app ko background se close kare aur dobara open kare aur generate kare. Ap total utne hi window app and super ke login kar payenge jitne token apne generate kia hai.
-
 Fihal irctc site bahot jada strickt hai jaise ki ap sab jante hai isliye ham bus itna hi kehna chahte hai ki aap jada pair jada form lagane ke chakkar me na pade isse apki ip block mac block ye issue hoga.
