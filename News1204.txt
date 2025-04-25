@@ -1,51 +1,19 @@
-Please dont do app , sup and app2 login wait for update do only web login
+Please Dhyan se Padhe...
 
+Booking ke 30 min pehle koi bhi pair login karke test bilkul bhi na kare aur normal time par bhi apko agar test karna hai to aap residential proxy se hi test kare.
 
-Version 95 App , sup and app2 login update done all users apk se token generate karke hi pair open kare aur login kare agar apko is time test karna hai to aap only residential ip se test kare taki apki home ip kharab na ho.
+Jo issue the web login failed unko totally fix kar dia gaya hai , blocked vps issue me bhi aap winzip use kar sakte hai bus apko slot add karna hoga.
 
-Bina token generate ke aap login nahi kar payenge aur aap utna hi window login kar payenge jitna token apne generate kia hai example apne 15 token generate kia hai to aap total mil kar app , sup and app2 ke 15 window khol payenge.
+App login and super login bhi ab kar sakte hai dhyan de super aur app login ke liye token must jaruri hai aur APP2 login bina token ke bhi login ho jayega ham APP2 ke jariye testing kar rahe hai to jo user token generate nahi kar rahe hai wo APP2 login kar de.
 
-Pair 4 honge 2 pair web login jarur kare web login karte wakt dhyan rakhe one time one window jab tak login na ho jaye dusri window ko login na kare.
+Agar koi pair login failed issue deta hai to us pair ko dobara login kare 1-2 attempt me asaani se pair login ho jayenge.
 
-Web Login kare ek browser khulega wo auto close hoga agar 30-40 sec me close nahi hota hai to aap manually close kar de..50 se login start kar de working ip se login kare 1 ip par 2 hi pair login kare all ip proper work karegi blocked vps me slot me ip add karke login kare.
+Total 4 pair khuelnge ap apne hisab se pair set kare aur web login aap 47 ke baad se bhi start kar sakte hai but ham yehi sugges karenge ki aap web login 50 ke baad hi kare.
 
-SLot 1 and 2 par web login kar de agar apka 2 pair bhi login ho jaa raha hai to apka kaam 100% hoga kyuki other koi bhi software working nahi hai aur site bahot smooth hai baki next update me slot ip par jo login issue hai kisi users ka usko permanent fix kar dia jayega
+Web login ka browser jab open hota hai to ap use bilkul bhi touch na kare 30 sec ke andar browser auto close ho jayega agar 30 sec tak close nahi hota to aap todha wait karke manually close kar sakte hai.
 
-Very strict news booking se pehle yani aap jab pair login karte hai usse pehle kam se 30 min tak koi bhi testing na kare aisa karne se apki booking kharab ho sakti hai isliye software open kare token get kare aur pair open kare test bilkul bhi na kare aur bina token app ya super ya app2 login bilkul na kare....Pehle token get kare 50Am par fir pair open kare.
+Jab tak ek pair sucessfull login na ho jaye dusra pair bilkul bhi na login kare aur try kare kam se kam pair open kare.
 
-APse request hai home ip par yani slot 1 and 2 par aap only web login hi kare baki ip par aap token generate karke app2 , app ya super jo bhi login sucess hota hai wo login kar sakte hai but dhyan rahe token jarur generate kar le.
+Token ek baar agar apne 10 generate kia hai aur dobara apko 10 karna hai to pehle token app ko background se close kare aur dobara open kare aur generate kare. Ap total utne hi window app and super ke login kar payenge jitne token apne generate kia hai.
 
-Blocked vps me jo web login issue tha use fix kar dia gaya hai ap users fast ip add karke web login kare...Web login aap 50 se karna start kar de jab tak ek window wait for PG nahi hoti dusri bilkul login na kare.
-
-Booking se pehle koi testing na kare direct form ko login kare 50 par aur pair limit ko 2 kia gaya aap apke hisab se login kariye only web
-
-Opening me BHIMUPI gateway me issue tha all users se request hai is gateway ko avoid kare aur OTOPAY , IPAYUPI ,PHONEPE inka istemal kare taki apke koi bookings fail na ho
-
-Web login 100% working aur baki login se fast hai isliye apse request hai 2 pair atleast web login kare.
-
-Freecharge bypass issue ko fix kar dia gaya hai.
-
-Bina token ke login me jo issue tha use bhi fix kar dia gaya hai but ham apse yehi request karenge aap token generate karke hi kaam kare.
-
-10 Pair open hoga har form ke 2 pair web login jarur kare aur dhyan rakhe web login aap 1 ip par 2 hi pair kar rahe hai login usse jada na kare.
-
-Token aap aap server se download kare aur use apne phone me install kare yadi pehle irctc app usme installed hai to use uninstall kar de.
-
-Token se aap one time me 15 enter kare aur apna winzip id enter kare aur send par click kare aur wait kare jab tak message na show ho sent successfully yadi apko aur 15 token chaiyye to apk ko background se close kare aur fir se 15 generate kare aise karke ap jitna chahe utna token generate kar sakte hai.
-Better booking ke liye aap total utna hi window open kare jitna token apne generate Kiya hai example apne 15 token generate kar dia hai to aur apko 3 form ka booking karna hai to aap har form ka 5 , 5 , 5 pair open kare aur login aap sare mix kare App , super , app2 and web ka bhi 1-2 pair jarur login kare.
-
-Market ke crack software wo 3,a token ka istemaal kar rahe hai aapse request hai aise software se dur rahe yeh irctc ne 3,a token ab tak on rakha hai taki wo agents ko trace kar sake ilisye aise crack software se bach kar rahe
-
-Jada window ke chakkar me aap jada token na generate kare utna hi token generate kare jitna apko jarurat jada karne se apka akamai score low hoga aur irctc apke login ko allow nahi kare.
-
-Aj Update sucessfull hone par token system ko fully hata diya jayega ya only one time generation kar dia jayega.
-
-Market me almost logo ne hamara apk chori kia hai aap samjh sakte hai apk khud banane me aur chori karne me kitna fark hai isliye apse request hai aise choro se savdhan rahe jinhe apk ke baare me kuch nahi pata wo fake apk ke through apke mobile me virus daal sakte hai isliye only winzip hi use kare.
-
-Aap token anytime generate kar sakte hai wo server par store hoga jab tak aap use software me get na kar le ek baar apne token get kar liya to wo token server se delete ho jayega.
-
-Ap chahe to is time ya kabhi bhi token generate karke store kar le aur booking ke time jab aap software open kare to get token kar le uske baad software restart na kare warna token 0 ho jayega.
-
-Agar aapne token generate nahi kia hai fir bhi aap login kar skte hai but ham all users ko yehi suggest karenge wo token generate karke hi kaam kare jisse apka booking fast ho.
-
-Web login 1-2 pair jarur login kare.
+Fihal irctc site bahot jada strickt hai jaise ki ap sab jante hai isliye ham bus itna hi kehna chahte hai ki aap jada pair jada form lagane ke chakkar me na pade isse apki ip block mac block ye issue hoga.
