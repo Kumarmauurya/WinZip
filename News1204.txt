@@ -1,10 +1,14 @@
-Please Dhyan se Padhe...(((MUltiple jagah par ek id use karne walo ka aaj software auto close ho jayega))
-Booking ke 30 min pehle koi bhi pair login karke test bilkul bhi na kare aur normal time par bhi apko agar test karna hai to aap residential proxy se hi test kare.
-Jo issue the web login failed unko totally fix kar dia gaya hai , blocked vps issue me bhi aap winzip use kar sakte hai bus apko slot add karna hoga.
-App login and super login bhi ab kar sakte hai dhyan de super aur app login ke liye token must jaruri hai aur APP2 login bina token ke bhi login ho jayega ham APP2 ke jariye testing kar rahe hai to jo user token generate nahi kar rahe hai wo APP2 login kar de.
-Agar koi pair login failed issue deta hai to us pair ko dobara login kare 1-2 attempt me asaani se pair login ho jayenge.
-Total 4 pair khuelnge ap apne hisab se pair set kare aur web login aap 47 ke baad se bhi start kar sakte hai but ham yehi sugges karenge ki aap web login 50 ke baad hi kare.
-Web login ka browser jab open hota hai to ap use bilkul bhi touch na kare 30 sec ke andar browser auto close ho jayega agar 30 sec tak close nahi hota to aap todha wait karke manually close kar sakte hai.
-Jab tak ek pair sucessfull login na ho jaye dusra pair bilkul bhi na login kare aur try kare kam se kam pair open kare.
-Token ek baar agar apne 10 generate kia hai aur dobara apko 10 karna hai to pehle token app ko background se close kare aur dobara open kare aur generate kare. Ap total utne hi window app and super ke login kar payenge jitne token apne generate kia hai.
-Fihal irctc site bahot jada strickt hai jaise ki ap sab jante hai isliye ham bus itna hi kehna chahte hai ki aap jada pair jada form lagane ke chakkar me na pade isse apki ip block mac block ye issue hoga.
+App , Sup and App2 login aap bina token ke bhi kar sakte hai but ham yehi suggest karenge ki aap token generate kare jisse apka booking fast ho.
+
+Web Login ke liye do option dia gaya hai jo aap Mainwindow par tick karke use karte hai.
+1) Option Pc_Chrome_Manual yeh option by default tick rahega ise ap us pc me ya vps me use kare jaha par irctc direct running ho is option ke liye apke pc me chrome install hona bahot jaruri hai. Is option se ek chrome page open hoga jisme Irctc open hoga page fully load ho jane par apko only us page par kahi bhi right click karke I M Not robot par click kar dena hai click karne se window auto close ho jayega aur wo pair apka login ho jayega aap chahe to login par click karke bhi Ya login karke bhi right click karke I M Not robot par click kar sakte hai yeh Option se ap jitne chahe utne pair login kar sakte hai sare form ke bhi pair aap aise hi login kar sakte hai.
+
+2)Option Edge only with proxy ispar click karne se pehle ki tarah irctc khulega aur wo auto close ho jayega yeh option only proxy ke sath work karega ham yeh suggest karenge ki aap residential proxy slot se yeh option use kare ya fir aisi ip se login kare jisse aapne pichle 30 minute me koi testing ya koi ticket na book kia ho.
+
+Option 2 only slot par work karega aur is option ko aap blocked vps par slot me residential proxy daal kar use kar sakte hai.
+
+Agar testing karna hai to option use kare.
+
+Web login aap chahe to use kare web login ka result app login se bahot accha hai ab ye ap par depend hai aap web login karna chahte hai ya app login.
+
+Booking se pehle ccleaner jarur run kar le.
