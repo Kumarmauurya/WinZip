@@ -1,4 +1,4 @@
-Please Dhyan se Padhe...
+Please Dhyan se Padhe...(((MUltiple jagah par ek id use karne walo ka aaj software auto close ho jayega))
 Booking ke 30 min pehle koi bhi pair login karke test bilkul bhi na kare aur normal time par bhi apko agar test karna hai to aap residential proxy se hi test kare.
 Jo issue the web login failed unko totally fix kar dia gaya hai , blocked vps issue me bhi aap winzip use kar sakte hai bus apko slot add karna hoga.
 App login and super login bhi ab kar sakte hai dhyan de super aur app login ke liye token must jaruri hai aur APP2 login bina token ke bhi login ho jayega ham APP2 ke jariye testing kar rahe hai to jo user token generate nahi kar rahe hai wo APP2 login kar de.
