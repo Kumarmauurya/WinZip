@@ -1,5 +1,9 @@
 App , Sup and App2 login aap bina token ke bhi kar sakte hai but ham yehi suggest karenge ki aap token generate kare jisse apka booking fast ho.
 
+Agar web login karne me aap asarmth ho rahe hai ya nahi kar paa rahe hai to jada pareshan na ho direct aap app, super and app2 login kar de bina token bhi aap proper login kar payenge but token generate and use karne se booking jada fast hogi kyuki apk generated latest token rahega.
+
+Direct running vps me chrome manual ke through web login kare I M Not robot chrome khulne par aap kar sakte hai ya fir usi chrome me irctc id login kare aur waha par i m not robot kar de.
+
 Web Login ke liye do option dia gaya hai jo aap Mainwindow par tick karke use karte hai.
 1) Option Pc_Chrome_Manual yeh option by default tick rahega ise ap us pc me ya vps me use kare jaha par irctc direct running ho is option ke liye apke pc me chrome install hona bahot jaruri hai. Is option se ek chrome page open hoga jisme Irctc open hoga page fully load ho jane par apko only us page par kahi bhi right click karke I M Not robot par click kar dena hai click karne se window auto close ho jayega aur wo pair apka login ho jayega aap chahe to login par click karke bhi Ya login karke bhi right click karke I M Not robot par click kar sakte hai yeh Option se ap jitne chahe utne pair login kar sakte hai sare form ke bhi pair aap aise hi login kar sakte hai.
 
