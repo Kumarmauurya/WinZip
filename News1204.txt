@@ -5,3 +5,5 @@ Aise karke aap all pair login kar de dhyan rahe hai aap 1 ip par ek hi pair logi
 Jada pair aur form ke liye residential ip ka istemal kare.
 
 Pair only 2 open hoga.
+
+Note Very Important :--- Testing bilkul na kare aise karne se apka ip aur pc algorithm ko akamai turant blacklist kar dega isliye direct 9:50 aur 10:50 par login kar de. SLot ip pe aap jada se jada residential ip use kare.
