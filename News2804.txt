@@ -1,0 +1,13 @@
+agar web login first attempt me I M Not Robot karne se sucess nahi hota hai to apse request jab chrome me irctc open ho to aap login par click kare aur koi bhi irctc id dal kar login kar de login hone ke baad right click kare aur I M NOT ROBOT kar de apka pair login ho jayega.
+
+Aise karke aap all pair login kar de dhyan rahe hai aap 1 ip par ek hi pair login kare aur booking se 30min pehle tak koi testing na kare.
+
+Jada pair aur form ke liye residential ip ka istemal kare.
+
+Pair only 2 open hoga.
+
+Note Very Important :--- Testing bilkul na kare aise karne se apka ip aur pc algorithm ko akamai turant blacklist kar dega isliye direct 9:50 aur 10:50 par login kar de. SLot ip pe aap jada se jada residential ip use kare.
+
+Booking se pehle ccleaner jarur run kar le jab akamai apko block karti hai to aap chrome par jab login karte hai userid and password se to wo login nahi hota hai aise stage par aap ccleaner run kar le aur browser reload karke login kare aur I M Not robot kar de.
+
+Agar chrome window par ap id dalne se login sucess hua to wo pair apka login ho jayega aap koi bhi id password dal kar login kar sakte hai.
