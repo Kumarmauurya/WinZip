@@ -1,4 +1,6 @@
-Please Dhyaan se news padhe aur steps follow kare.
+Please Dhyaan se news padhe aur steps follow kare video dekh kar.
+
+Booking login ab sab kuch apke haath me hai matlab jis ip se apko login karna hai agar wo ip aap testing ke liye use karenge to 1 hours tak aap wo ip login nahi kar payenge browser par bhi ya kahi bhi isliye bina test ke direct login kare residential ip irctc dwara blocked ho chuki hai akamai security ki wajah se.
 
 First time apko jo setup karna hai wo apko news form me video ke roop me dikhaya gaya hai usko dhyan se dekhe aur sab setup kar le taki apko I m not robot proper show ho aur agar aap proxy se login kar rahe hai to apki proxy bhi proper work kare.
 
