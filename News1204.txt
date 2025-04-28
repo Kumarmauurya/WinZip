@@ -2,6 +2,8 @@ Jo users ko jada form book karna hota hai o chahe to internet option me jakar ek
 
 Kabhi ho sakta hai aap aap jo browser open hota hai uspar irctc id dalne ke baad bhi login nahi kar paate browser me iska matlb apki ip ko akamai ne blocked kar dia hai aise situtaion par aap upar diye hue step ko use kar sakte hai.
 
+Booking se 1 hour pehle koi bhi test na kare koi pair login na kare direct booking form login kare test karne se apki ip block hogi.
+
 agar web login first attempt me I M Not Robot karne se sucess nahi hota hai to apse request jab chrome me irctc open ho to aap login par click kare aur koi bhi irctc id dal kar login kar de login hone ke baad right click kare aur I M NOT ROBOT kar de apka pair login ho jayega.
 
 Aise karke aap all pair login kar de dhyan rahe hai aap 1 ip par ek hi pair login kare aur booking se 30min pehle tak koi testing na kare.
