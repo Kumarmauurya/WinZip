@@ -1,5 +1,7 @@
 Jo users ko jada form book karna hota hai o chahe to internet option me jakar ek residential proxy ip and post save kare aur fir chrome open kare waha par proxy userid and password enter ka option aayega to us residential ip ka user id and password enter kar de aur check kar le irctc chrome me open ho raha hai ya nahi agar ho jaye to software se aap web login kare aur I M Not Robot kare yeh process normal users aur blocked vps wale users chahe to kar sakte hai for faster bookings and quicker login.
 
+Kabhi ho sakta hai aap aap jo browser open hota hai uspar irctc id dalne ke baad bhi login nahi kar paate browser me iska matlb apki ip ko akamai ne blocked kar dia hai aise situtaion par aap upar diye hue step ko use kar sakte hai.
+
 agar web login first attempt me I M Not Robot karne se sucess nahi hota hai to apse request jab chrome me irctc open ho to aap login par click kare aur koi bhi irctc id dal kar login kar de login hone ke baad right click kare aur I M NOT ROBOT kar de apka pair login ho jayega.
 
 Aise karke aap all pair login kar de dhyan rahe hai aap 1 ip par ek hi pair login kare aur booking se 30min pehle tak koi testing na kare.
