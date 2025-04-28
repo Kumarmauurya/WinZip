@@ -1,13 +1,15 @@
-agar web login first attempt me I M Not Robot karne se sucess nahi hota hai to apse request jab chrome me irctc open ho to aap login par click kare aur koi bhi irctc id dal kar login kar de login hone ke baad right click kare aur I M NOT ROBOT kar de apka pair login ho jayega.
+Please Dhyaan se news padhe aur steps follow kare.
 
-Aise karke aap all pair login kar de dhyan rahe hai aap 1 ip par ek hi pair login kare aur booking se 30min pehle tak koi testing na kare.
+First time apko jo setup karna hai wo apko news form me video ke roop me dikhaya gaya hai usko dhyan se dekhe aur sab setup kar le taki apko I m not robot proper show ho aur agar aap proxy se login kar rahe hai to apki proxy bhi proper work kare.
 
-Jada pair aur form ke liye residential ip ka istemal kare.
+One time setup apko do baar karna hai ek baar slot 1 ke liye jisme only one extension enable karna hai aur ek baar slot 3 ke baad ke koi bhi slot yani ip se jab aap ip se karenge to apko 2 extension enable karne honge wo aap video me dekh sakte hai.
 
-Pair only 2 open hoga.
+SOftware me data me ek option diya gaya hai proxy for browser yaha par aap koi bhi residential proxy save kar de isse apka jo chrome browser open hoga wo usi proxy ke through open hoga aur isse apko login me bhi koi problem nahi aayegi aur hamesha koshis ki aap browser par login karke hi I m Not robot kare taki apka booking proper ho agar aap residential proxy ke through browser open kar rahe hai to aap direct home page par hi i m not robot kar sakte hai.
 
-Note Very Important :--- Testing bilkul na kare aise karne se apka ip aur pc algorithm ko akamai turant blacklist kar dega isliye direct 9:50 aur 10:50 par login kar de. SLot ip pe aap jada se jada residential ip use kare.
+Bhot important cheez jo apko dhyan rkhni hai aapko booking ke liye fresh ip chaiyye isliye jis ip se apko booking karna hai aap us ip par koi bhi testing bilkul na kare warna akami apki ip ko block kar dega agar apko testing karni hai to aap residential ip se kariye.
 
-Booking se pehle ccleaner jarur run kar le jab akamai apko block karti hai to aap chrome par jab login karte hai userid and password se to wo login nahi hota hai aise stage par aap ccleaner run kar le aur browser reload karke login kare aur I M Not robot kar de.
+Edge browser me changes kia gaya hai ab browser open hoga apko us me bhi login karna hai aur browser close kar dena manually and apka wo pair login ho jayega.
 
-Agar chrome window par ap id dalne se login sucess hua to wo pair apka login ho jayega aap koi bhi id password dal kar login kar sakte hai.
+Next Update me sara process auto kar diya jayega hamari team is cheezk ko test kar rahi hai kuch bhi auto karne par akamai turant detect kar leti hai aur login block kar de rahi hai isliye jab tk permanent solution nahi mil jata hai aap log aise hi dhyan se ticket booking kare.
+
+Koi seller ya user image share na kare kisi ko bhi apni booking image share na kare.
