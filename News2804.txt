@@ -4,7 +4,7 @@ Booking login ab sab kuch apke haath me hai matlab jis ip se apko login karna ha
 
 First time apko jo setup karna hai wo apko news form me video ke roop me dikhaya gaya hai usko dhyan se dekhe aur sab setup kar le taki apko I m not robot proper show ho aur agar aap proxy se login kar rahe hai to apki proxy bhi proper work kare.
 
-One time setup apko do baar karna hai ek baar slot 1 ke liye jisme only one extension enable karna hai aur ek baar slot 3 ke baad ke koi bhi slot yani ip se jab aap ip se karenge to apko 2 extension enable karne honge wo aap video me dekh sakte hai.
+setup karne se pehle developer mode par tick kar le chrome me .One time setup apko do baar karna hai ek baar slot 1 ke liye jisme only one extension enable karna hai aur ek baar slot 3 ke baad ke koi bhi slot yani ip se jab aap ip se karenge to apko 2 extension enable karne honge wo aap video me dekh sakte hai.
 
 SOftware me data me ek option diya gaya hai proxy for browser yaha par aap koi bhi residential proxy save kar de isse apka jo chrome browser open hoga wo usi proxy ke through open hoga aur isse apko login me bhi koi problem nahi aayegi aur hamesha koshis ki aap browser par login karke hi I m Not robot kare taki apka booking proper ho agar aap residential proxy ke through browser open kar rahe hai to aap direct home page par hi i m not robot kar sakte hai.
 
