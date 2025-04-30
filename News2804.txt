@@ -1,17 +1,10 @@
-Please Dhyaan se news padhe aur steps follow kare video dekh kar.
+Ab se Home ip yani apki pc ip par jab aap login karenge to Chrome window open hoga apko usme irctc id login karni hai aur jab login sucessfull ho jaye to Right click karke I M Not robot kar de.
 
-Booking login ab sab kuch apke haath me hai matlab jis ip se apko login karna hai agar wo ip aap testing ke liye use karenge to 1 hours tak aap wo ip login nahi kar payenge browser par bhi ya kahi bhi isliye bina test ke direct login kare residential ip irctc dwara blocked ho chuki hai akamai security ki wajah se.
+Ab Khaas baat ka dhyan de aur dhyaan se padhe.
+Home ip ke alawa jo slot hai jaise 3 se jada wale slot unpar bhi aap ek ip par ek hi form login kare aur ip jo aap use kar rahe hai wo acchi aur fast linuxe ip ho jo fast response kare residential ip ko irctc ne totaly band kar dia hai.
 
-First time apko jo setup karna hai wo apko news form me video ke roop me dikhaya gaya hai usko dhyan se dekhe aur sab setup kar le taki apko I m not robot proper show ho aur agar aap proxy se login kar rahe hai to apki proxy bhi proper work kare.
+SLot 2 ke baad ke jitne bhi slot par aap login karenge sab bina browser khule auto login hoga bus aap yeh dhyan rakhe us slot me jo ip hai wo fast linuxe ya webyne ya aws ya linode koi bhi acchi fast ip ho to hi apka pair bina browser ke login hoga.
 
-setup karne se pehle developer mode par tick kar le chrome me .One time setup apko do baar karna hai ek baar slot 1 ke liye jisme only one extension enable karna hai aur ek baar slot 3 ke baad ke koi bhi slot yani ip se jab aap ip se karenge to apko 2 extension enable karne honge wo aap video me dekh sakte hai.
+Login aap 45 se kar sakte hai uske pehle ccleaner run kare aur booking se 1 hour pehle koi bhi testing ya browser me irctc na open kare.
 
-SOftware me data me ek option diya gaya hai proxy for browser yaha par aap koi bhi residential proxy save kar de isse apka jo chrome browser open hoga wo usi proxy ke through open hoga aur isse apko login me bhi koi problem nahi aayegi aur hamesha koshis ki aap browser par login karke hi I m Not robot kare taki apka booking proper ho agar aap residential proxy ke through browser open kar rahe hai to aap direct home page par hi i m not robot kar sakte hai.
-
-Bhot important cheez jo apko dhyan rkhni hai aapko booking ke liye fresh ip chaiyye isliye jis ip se apko booking karna hai aap us ip par koi bhi testing bilkul na kare warna akami apki ip ko block kar dega agar apko testing karni hai to aap residential ip se kariye.
-
-Edge browser me changes kia gaya hai ab browser open hoga apko us me bhi login karna hai aur browser close kar dena manually and apka wo pair login ho jayega.
-
-Next Update me sara process auto kar diya jayega hamari team is cheezk ko test kar rahi hai kuch bhi auto karne par akamai turant detect kar leti hai aur login block kar de rahi hai isliye jab tk permanent solution nahi mil jata hai aap log aise hi dhyan se ticket booking kare.
-
-Koi seller ya user image share na kare kisi ko bhi apni booking image share na kare.
+Indireclty agar samjhaya jaye to slot 1 and 2 jo apka home ip hai apko usme sirf 1 hi pair login karna hai aur in slot me browser open hoga and 2 ke baad jitne bhi slot hai wo sab auto login honge bina kisi browser open hue bus apko slot me ip fast wali use karni hai.
