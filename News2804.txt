@@ -1,3 +1,5 @@
+Only slot ip use kare fast ip aur login booking time hi kare us time browser open nahi hoga agar login ho jata hai to theek hai warna browser per kaam kare apne seller aur admin ko kripya pareshan na kare ham aur haamri team puri tarah se mehnat kar rahi hai aur jo bhi output hoga apko bataya jayega.
+
 Testing bilkul bhi na kare direct form login kare aur jada se jada slot use kare home ip agar dikkat karti hai to aur slot me fast proxy hi use kare.
 
 Ab se Home ip yani apki pc ip par jab aap login karenge to Chrome window open hoga apko usme irctc id login karni hai aur jab login sucessfull ho jaye to Right click karke I M Not robot kar de.
