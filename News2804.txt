@@ -1,14 +1,3 @@
-Only slot ip use kare fast ip aur login booking time hi kare us time browser open nahi hoga agar login ho jata hai to theek hai warna browser per kaam kare apne seller aur admin ko kripya pareshan na kare ham aur haamri team puri tarah se mehnat kar rahi hai aur jo bhi output hoga apko bataya jayega.
+Update morning time par dia jayega aur software only 7:40Am , 9:40AM aur 10:40 am ke baad hi login hoga usske beech me ya uske pehle aap login nahi kar payenge isliye apse request jo extension ki setting hai wo video dekh kar abhi set kar le.
 
-Testing bilkul bhi na kare direct form login kare aur jada se jada slot use kare home ip agar dikkat karti hai to aur slot me fast proxy hi use kare.
-
-Ab se Home ip yani apki pc ip par jab aap login karenge to Chrome window open hoga apko usme irctc id login karni hai aur jab login sucessfull ho jaye to Right click karke I M Not robot kar de.
-
-Ab Khaas baat ka dhyan de aur dhyaan se padhe.
-Home ip ke alawa jo slot hai jaise 3 se jada wale slot unpar bhi aap ek ip par ek hi form login kare aur ip jo aap use kar rahe hai wo acchi aur fast linuxe ip ho jo fast response kare residential ip ko irctc ne totaly band kar dia hai.
-
-SLot 2 ke baad ke jitne bhi slot par aap login karenge sab bina browser khule auto login hoga bus aap yeh dhyan rakhe us slot me jo ip hai wo fast linuxe ya webyne ya aws ya linode koi bhi acchi fast ip ho to hi apka pair bina browser ke login hoga.
-
-Login aap 45 se kar sakte hai uske pehle ccleaner run kare aur booking se 1 hour pehle koi bhi testing ya browser me irctc na open kare.
-
-Indireclty agar samjhaya jaye to slot 1 and 2 jo apka home ip hai apko usme sirf 1 hi pair login karna hai aur in slot me browser open hoga and 2 ke baad jitne bhi slot hai wo sab auto login honge bina kisi browser open hue bus apko slot me ip fast wali use karni hai.
+Yeh setting kar le taki morning me aap ko booking ke wakt koi samasya na aaye.
