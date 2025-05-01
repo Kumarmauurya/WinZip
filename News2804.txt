@@ -1,5 +1,9 @@
-Update morning time par dia jayega aur software only 7:40Am , 9:40AM aur 10:40 am ke baad hi login hoga usske beech me ya uske pehle aap login nahi kar payenge isliye apse request jo extension ki setting hai wo video dekh kar abhi set kar le.
+Chrome par jab irctc open hoga to apko usme login karna hai aur login sucessfull hone par right click karna hai aur i m not robot par click kar dena aisa karne se apka pair login ho jayega.
 
-Yeh setting kar le taki morning me aap ko booking ke wakt koi samasya na aaye.
+Login aap 40Am ke baad hi kar payenge.
 
-Residential ip bilkul bhi use na kare irctc ne akami ke jariye use block kia hai isliye use super fast linuxe ip or any other working ip.
+Ap chahe to login with edge bhi kar sakte hai aap main window par tick kare ek irctc window open hoga wah apar user id password dal kar login kare aur login hone par window ko close kar de pair apka login ho jayega.
+
+Next update me isko auto kar dia jayega filhal aap aise booking kare aap 1 ip par ek hi pair login kare for best results.
+
+All users se request hai kahi bhi koi screenshot ya video share na kare.
