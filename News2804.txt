@@ -7,3 +7,5 @@ Ap chahe to login with edge bhi kar sakte hai aap main window par tick kare ek i
 Next update me isko auto kar dia jayega filhal aap aise booking kare aap 1 ip par ek hi pair login kare for best results.
 
 All users se request hai kahi bhi koi screenshot ya video share na kare.
+
+Residential Ip bilkul bhi use na kare na browser kholne ke liye na boooking ke liye kyuki iski ip irctc ne block ki hui hai
