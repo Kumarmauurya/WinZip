@@ -1,5 +1,8 @@
 ###Please Read Carefully Chrome install hona pc me mandatory hai warna apko error aayega agar chrome auto pe koi error ataa hai to edge use kijiye###
 Login from Modes:-
+
+Kafi users ka kehna hai ki edge se login accha hota hai to aap se request hai pehle edge par hi login kare isme only ip se login hoga browser khulte hi login per click kare irctc id pass dale aur login kar de login ho jane ke baad window apko manually close karni hogi to apka pair login hoga
+
 1)CHROME IM NOT ROBOT
 2)CHROME AUTO --- ISME LOGIN KARNE PAR BROWSER OPEN HOGA USME APKO MANUALLY LOGIN PE CLICK KARNA HAI IRCTC ID SE LOGIN KARNA HAI LOGIN SUCESS HOTE HI BROWSER AUTO CLOSE HO JAYEGA AUR PAIR LOGIN HO JAYEGA
 3)EDGE AGAR CHROME FAIL HOTA HAI TO EDGE SE LOGIN KARE ISME APKO LOGIN KARNA HAI HAI LOGIN SUCESS HONE PAR BROWSER APKO CLOSE KHUD KARNA HAI.
