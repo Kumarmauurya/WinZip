@@ -1,0 +1,11 @@
+Sup , app2 and app login update kar dia gaya hai jo users chahe test kar sakte hai yeh bina token ke geenrate ke aap login kar sakte hai but agar token generate karenge to result better hoga.
+
+Ham users se yeh suggest karenge ki web login ek pair jaruur kare aur web login me chrome_auto ka istemal kare aur agar aap chrome auto use kar rahe hai slot ke sath to pehle jab chrome browser open ho to usme irctc page ko right click karke refresh ya reload kar le taki apki slot wali proxy proper load ho jaye.
+
+Har login mode me steps diye hue hai unhe proper padehe tabhi login sucessfull hoga.
+
+Bank me issue irctc server ki taraf se ho raha hai to yadi apko edge me error aa raha hai to chrome_auto use kare isse koi bhi error nahi aayega.
+
+Bhim NPCI bypass ke issue ko solve kar dia gaya hai.
+
+3 pair open honge 1-2 pair web login kare aur baki apne hisab se app , super and app2.
