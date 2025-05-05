@@ -1,13 +1,18 @@
-##Chrome auto ko fast kia gaya try kare is se jab aap login karenge to browser open hoga usme apko irctc id login karni hai aur kahi par bhi 1-2 baar right click karna hai aur I M Not robot par click kar dena to apka pair login ho jayega aur browser bhi close ho jayea.##
+Please use only web login baki login test karke update diye jayenge.
 
-Ek ip par ek se jada pair login karne par apka form kharab ho sakta hai isliye ek ip par only 1 pair hi login kare.
+###Please Read Carefully Chrome install hona pc me mandatory hai warna apko error aayega agar chrome auto pe koi error ataa hai to edge use kijiye###
+Login from Modes:-
 
-Freecharge Bypass , Axis bypass ,NPCI Bhim bypass ke issue ko solve kar diya gaya hai ab aap bypass kar sakte hai.
-Bhimupi aur phonepeupi ke bhi issue ko solve kar diya gaya hai hai abhi sabse accha result freecharge bypass ka hai ap usko bindass istemal kare.
+Kafi users ka kehna hai ki edge se login accha hota hai to aap se request hai pehle edge par hi login kare isme only ip se login hoga browser khulte hi login per click kare irctc id pass dale aur login kar de login ho jane ke baad window apko manually close karni hogi to apka pair login hoga
 
 1)CHROME IM NOT ROBOT
-2)CHROME AUTO --- ISME LOGIN KARNE PAR BROWSER OPEN HOGA USME APKO MANUALLY LOGIN PE CLICK KARNA HAI IRCTC ID SE LOGIN KARNA HAI LOGIN SUCESS HONE KE BAAD BROWSER PAR KAHI BHI 1-2 BAR RIGHT CLICK KARNA HAI AUR I M NOT ROBOT PAR CLICK KAR DENA HAI APKA PAIR LOGIN HO JAYEGA.
-3)EDGE AGAR CHROME FAIL HOTA HAI TO EDGE SE LOGIN KARE ISME APKO LOGIN KARNA HAI HAI LOGIN SUCESS HONE PAR BROWSER APKO KHUD CLOSE KARNA HAI.
+2)CHROME AUTO --- ISME LOGIN KARNE PAR BROWSER OPEN HOGA USME APKO MANUALLY LOGIN PE CLICK KARNA HAI IRCTC ID SE LOGIN KARNA HAI LOGIN SUCESS HOTE HI BROWSER AUTO CLOSE HO JAYEGA AUR PAIR LOGIN HO JAYEGA
+3)EDGE AGAR CHROME FAIL HOTA HAI TO EDGE SE LOGIN KARE ISME APKO LOGIN KARNA HAI HAI LOGIN SUCESS HONE PAR BROWSER APKO CLOSE KHUD KARNA HAI.
+
+CHROME AUTO KO DEFAULT KAR DIA GAYA HAI AUR ISSE HAR BLOCKED VPS ME PROPER LOGIN HOGA ISSKI LOGIN ACCURACY 99% HAI ISLIYE ISKO JADA SE JADA USE KARE AUR BLOCKED VPS ME SLOT SE HI LOGIN KARE AUR DHYAN RAKHE SLOT ME RESIDENTIAL PROXY NA HO ONLY LINUXE KI FAST IP USE KARE.
+
 OPENING BANK SERVER AUR FINAL HIT PE JO USERS KA RUK RAHA THA WO ISSUE KO FIX KAR DIA GAYA HAI BUS AP YEH CHEEZ KA DHYAN RAKHE EK IP PAR FILHAL EK HI PAIR YANI EK FORM LOGIN KARE ACCURACY AUR RESULT DEKH KAR PAIR KO BADHAYA JAYEGA.
 
-CHROME AUTO SE APKE SLOT PAR JO IP HAI CHROME WINDOW BHI USI IP PAR KHULEGA.
+DHYAN RAKHE CHROME AUTO USE KARNE SE APKA CHROME KA ALL HISTORY AND DATA DELEETE HO JAYEGA ISLIYE AGAR CHROME ME APNE KOI IMPORTANT DATA RAKHA HAI TO USKO KAHI AUR SAVE KAR LE.
+ONLY WEB LOGIN WORKING HAI WEB LOGIN FULLY SUCESS AUR SET HONE PAR APP LOGIN UPDATE DEDIYA JAYEGA.
+AAPSE REQUEST HAI SCREENSHOT KAHI BHI KISI KO SHARE NA KARE CHUPCHAP KAAM KARE KYUKI IRCTC HAR CHEEZ KO MONITOR KAR RAHI HAI AUR HAR DIN UPDATE DE RAHI HAI FILHAL SARE SOFTWARE WALO NE HAATH UTHA LIA HAI KYUKI UNSE UPDATE NAHI HO RAHA HAI ONLY WINZIP TEAM APKO DAILY UPDATE DE RAHI HAI ISLIYE APSE REQUEST HAI PLEASE COOPERATE KARE.
