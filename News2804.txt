@@ -1,3 +1,6 @@
+Chrome auto me agar aap proxy use kar rahe hai aur vps blocked hai aur irctc nahi khulta hai to usi browser window ko reload ya refresh kar le fir usi window me browser open ho jayega.
+Chrome auto wale users proxy slot me jab chrome khule to irctc page ko reload ya refresh karke browser pe login kare
+
 Please use only web login baki login test karke update diye jayenge.
 
 Jo users ko bank upi me issue aa raha hai ya logout issue face ho raha hai unse request hai CHrome_auto se login kare
