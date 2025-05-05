@@ -1,17 +1,23 @@
-Login Open hai jo users chahe bypass ya bank check kar sakte hai
+##Chrome auto ko fast kia gaya try kare is se jab aap login karenge to browser open hoga usme apko irctc id login karni hai aur kahi par bhi 1-2 baar right click karna hai aur I M Not robot par click kar dena to apka pair login ho jayega aur browser bhi close ho jayea.##
 
-Chrome auto me jo bug tha login na hone ka wo issue solve kar diya gaya hai ab chrome auto se aap bindass login kar sakte hai bus dhyan rakhe ek ip par ek hi pair login kare usse jada try bhi na kare warna apka form kharab ho jayega.
+Good News ab ap app , sup and app2 login kar sakte hai hamne all users ke test ke liye yeh 3 login open kar diya hai yeh 3 login me koi extension ya koi token ka jarurat nahi hai direct aap login kare wo login ho jayega but support ke liye aap ek pair web login jarur kar de.
+
+Kl app , sup aur app2 test ke liye pair ko 2 kar dia gaya hai taki aap proper testing kar sake all logins ke.
+
+Test sucessfull ke baad software ka rate badhaya jayega to apse request hai jise key buy karni hai buy kar le aur apna wallet 0 kara le.
+
+Ek ip par ek se jada pair login karne par apka form kharab ho sakta hai isliye ek ip par only 1 pair hi login kare.
+
 Freecharge Bypass , Axis bypass ,NPCI Bhim bypass ke issue ko solve kar diya gaya hai ab aap bypass kar sakte hai.
 Bhimupi aur phonepeupi ke bhi issue ko solve kar diya gaya hai hai abhi sabse accha result freecharge bypass ka hai ap usko bindass istemal kare.
-CHrome me login karte wakt dhyaan de har time new id se login kare jaise apne ek pair ek id se login kia to dusra dusri id se login kare login karne ke baaad chrome auto close ho jayega.
 
 Login from Modes:-
 
 1)CHROME IM NOT ROBOT
-2)CHROME AUTO --- ISME LOGIN KARNE PAR BROWSER OPEN HOGA USME APKO MANUALLY LOGIN PE CLICK KARNA HAI IRCTC ID SE LOGIN KARNA HAI LOGIN SUCESS HOTE HI BROWSER AUTO CLOSE HO JAYEGA AUR PAIR LOGIN HO JAYEGA
-3)EDGE AGAR CHROME FAIL HOTA HAI TO EDGE SE LOGIN KARE ISME APKO LOGIN KARNA HAI HAI LOGIN SUCESS HONE PAR BROWSER APKO CLOSE KHUD KARNA HAI.
+2)CHROME AUTO --- ISME LOGIN KARNE PAR BROWSER OPEN HOGA USME APKO MANUALLY LOGIN PE CLICK KARNA HAI IRCTC ID SE LOGIN KARNA HAI LOGIN SUCESS HONE KE BAAD BROWSER PAR KAHI BHI 1-2 BAR RIGHT CLICK KARNA HAI AUR I M NOT ROBOT PAR CLICK KAR DENA HAI APKA PAIR LOGIN HO JAYEGA.
+3)EDGE AGAR CHROME FAIL HOTA HAI TO EDGE SE LOGIN KARE ISME APKO LOGIN KARNA HAI HAI LOGIN SUCESS HONE PAR BROWSER APKO KHUD CLOSE KARNA HAI.
 OPENING BANK SERVER AUR FINAL HIT PE JO USERS KA RUK RAHA THA WO ISSUE KO FIX KAR DIA GAYA HAI BUS AP YEH CHEEZ KA DHYAN RAKHE EK IP PAR FILHAL EK HI PAIR YANI EK FORM LOGIN KARE ACCURACY AUR RESULT DEKH KAR PAIR KO BADHAYA JAYEGA.
 
-DHYAN RAKHE CHROME AUTO USE KARNE SE APKA CHROME KA ALL HISTORY AND DATA DELEETE HO JAYEGA ISLIYE AGAR CHROME ME APNE KOI IMPORTANT DATA RAKHA HAI TO USKO KAHI AUR SAVE KAR LE.
 ONLY WEB LOGIN WORKING HAI WEB LOGIN FULLY SUCESS AUR SET HONE PAR APP LOGIN UPDATE DEDIYA JAYEGA.
-AAPSE REQUEST HAI SCREENSHOT KAHI BHI KISI KO SHARE NA KARE CHUPCHAP KAAM KARE KYUKI IRCTC HAR CHEEZ KO MONITOR KAR RAHI HAI AUR HAR DIN UPDATE DE RAHI HAI FILHAL SARE SOFTWARE WALO NE HAATH UTHA LIA HAI KYUKI UNSE UPDATE NAHI HO RAHA HAI ONLY WINZIP TEAM APKO DAILY UPDATE DE RAHI HAI ISLIYE APSE REQUEST HAI PLEASE COOPERATE KARE.
+
+CHROME AUTO SE APKE SLOT PAR JO IP HAI CHROME WINDOW BHI USI IP PAR KHULEGA.
