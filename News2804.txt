@@ -1,5 +1,7 @@
 Please use only web login baki login test karke update diye jayenge.
 
+Jo users ko bank upi me issue aa raha hai ya logout issue face ho raha hai unse request hai CHrome_auto se login kare
+
 ###Please Read Carefully Chrome install hona pc me mandatory hai warna apko error aayega agar chrome auto pe koi error ataa hai to edge use kijiye###
 Login from Modes:-
 
