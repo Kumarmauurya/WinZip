@@ -1,3 +1,5 @@
+10:20Am ke baad update diya gaya hai all users software restart kar le agar apka update nahi hua hai to.
+
 Sup , app2 and app login update kar dia gaya hai jo users chahe test kar sakte hai yeh bina token ke geenrate ke aap login kar sakte hai but agar token generate karenge to result better hoga.
 
 Ham users se yeh suggest karenge ki web login ek pair jaruur kare aur web login me chrome_auto ka istemal kare aur agar aap chrome auto use kar rahe hai slot ke sath to pehle jab chrome browser open ho to usme irctc page ko right click karke refresh ya reload kar le taki apki slot wali proxy proper load ho jaye.
