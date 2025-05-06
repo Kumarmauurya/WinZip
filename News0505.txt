@@ -9,3 +9,7 @@ Bank me issue irctc server ki taraf se ho raha hai to yadi apko edge me error aa
 Bhim NPCI bypass ke issue ko solve kar dia gaya hai.
 
 3 pair open honge 1-2 pair web login kare aur baki apne hisab se app , super and app2.
+
+Chrome_auto me koi extensions ya kuch bhi karne ki jarurat nahi hai bus apko login karna hai browser khulega usme irctc id dal kar login kar dena hai aur kahi bhi righ click karenge apko i m not robot option show ho jayega.
+
+Aur agar chrome_auto me aap slot par login kar rahe hai to jab chrome window me irctc khule to usi ek baar reload kar le yani usi browser me kahi bhi right click karke reload kar le fir same process follow kare aisa karne se payment problem nahi hogi.
