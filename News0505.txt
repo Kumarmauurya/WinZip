@@ -1,8 +1,10 @@
+Getting payment infor par ruke wale issue ko solve kar dia gaya hai.
+
+Password change and sync id aap 11;30 ke baad kar sakte hai only residential proxy ke through hi password change aur id sync kare.
+
 Agar app , super ya app2 login karna hai to better yehi hai aap token generate karke login kare bina token bhi aap login kar sakte hai but server pe load hone ki wajah se kabhi kabhi token nahi generate hota hai to agar ap bina token login kar rahe hai aur apko error mesg aata hai token not available on server try again to aap dobara 1-2 baar login kare wo pair login ho jayega.
 
 Toekn aap jab chahe tab generate kar sakte hai.
-
-Getting payment infor par ruke wale issue ko solve kar dia gaya hai.
 
 Irctc ne kafi linuxe ip par login block kar diya hai is wajah se web login me jo browser open hota hai usme aap login nahi kar paate hai to apse request hai agar apke saath aisa ho to aap home ip par login kare ya ip swithc karke login kare.
 
