@@ -1,3 +1,6 @@
+Pehle token generate kare aur token ko get kare then only hi pair open kare pair open ke baad agar aap token get karenge to wo work nahi karega isliye dhyan rakhe pehle aap token generate kare fir usko software me get kare fir ticket ko open kare pair  kare aur login kare. Agar APP2 login nahi hota to super kare ya app login kare.
+
+
 Getting payment infor par ruke wale issue ko solve kar dia gaya hai.
 
 Password change and sync id aap 11;30 ke baad kar sakte hai only residential proxy ke through hi password change aur id sync kare.
