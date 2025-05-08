@@ -1,5 +1,6 @@
-Pehle token generate kare aur token ko get kare then only hi pair open kare pair open ke baad agar aap token get karenge to wo work nahi karega isliye dhyan rakhe pehle aap token generate kare fir usko software me get kare fir ticket ko open kare pair  kare aur login kare. Agar APP2 login nahi hota to super kare ya app login kare.
+Linoe , aws , vultr in sab ip par irctc ne login disabled kar dia hai to aap se request hai aap home ip ya private ip ka istemal aur ek ip par 2 hi pair login kare usse jada karne se apka kaam kharab ho sakta hai.
 
+Pehle token generate kare aur token ko get kare then only hi pair open kare pair open ke baad agar aap token get karenge to wo work nahi karega isliye dhyan rakhe pehle aap token generate kare fir usko software me get kare fir ticket ko open kare pair  kare aur login kare. Agar APP2 login nahi hota to super kare ya app login kare.
 
 Getting payment infor par ruke wale issue ko solve kar dia gaya hai.
 
