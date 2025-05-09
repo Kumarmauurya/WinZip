@@ -1,5 +1,4 @@
-TOken not available issue ko fix kar diya gaya hai aur token get karne me jin users ko issue the wo bhi bug ko fix kar dia gaya hai bina token bhi aap chahe to login kar sakte hai hamen software ko fully optimise kia hai all working working fine accha result web login ka hi hai isliye aap private companies kii IP ya home ip par only pair web login kare jisse apka booking ka chances jada ho.
-
+Token get wale issue ko solve kar diya gaya hai all users token utna hi generate kare jitna window nhe login karna hai aur token generate aur check karne ke baad hi pair open kare warna apka pair login nahi hoga.
 Ji users ya agent ko lagta hai ip block ek bahana hai hamara unse request hai aap ohi ip ko system me dale aur usi ip se irctc browser khole aur check kare login kare aap khud dekh payenge ki un ip per irctc bilkul bhi login allow nahi kar rahi hai.
 
 Linode , aws , vultr in sab ip par irctc ne login disabled kar dia hai to aap se request hai aap home ip ya private ip ka istemal aur ek ip par 2 hi pair login kare usse jada karne se apka kaam kharab ho sakta hai.
