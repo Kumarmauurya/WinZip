@@ -1,4 +1,7 @@
+Ap users se request hai aap only app login par depended na rahe hai har form ke 2 pair khulte hai 1 pair web login kare aur ek pair super ya app2 aise apke form banne ke chance jada rahenge kyuki web login abhi ke time bahot fast aur stable hoke kaam kar raha hai.
+
 Token get wale issue ko solve kar diya gaya hai all users token utna hi generate kare jitna window nhe login karna hai aur token generate aur check karne ke baad hi pair open kare warna apka pair login nahi hoga.
+
 Ji users ya agent ko lagta hai ip block ek bahana hai hamara unse request hai aap ohi ip ko system me dale aur usi ip se irctc browser khole aur check kare login kare aap khud dekh payenge ki un ip per irctc bilkul bhi login allow nahi kar rahi hai.
 
 Linode , aws , vultr in sab ip par irctc ne login disabled kar dia hai to aap se request hai aap home ip ya private ip ka istemal aur ek ip par 2 hi pair login kare usse jada karne se apka kaam kharab ho sakta hai.
