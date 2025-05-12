@@ -1,3 +1,5 @@
+Jinka submit ya payment par ruk raha hai unse request hai fresh id use kare daily same id use karne walo ka yeh issue jada hai.
+
 Ap users se request hai aap only app login par depended na rahe hai har form ke 2 pair khulte hai 1 pair web login kare aur ek pair super ya app2 aise apke form banne ke chance jada rahenge kyuki web login abhi ke time bahot fast aur stable hoke kaam kar raha hai.
 
 Token get wale issue ko solve kar diya gaya hai all users token utna hi generate kare jitna window nhe login karna hai aur token generate aur check karne ke baad hi pair open kare warna apka pair login nahi hoga.
