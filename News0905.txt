@@ -1,3 +1,6 @@
+
+1 pair web login jaru kare baki ke 2 pair aap app super ya app2 login kar sakte hai dhyaan rakhe web login ek ip par ek hi login kare.
+
 Pair ko 3 kar diya gaya hai but aap se request hai aap Web Login 1 ip par ek hi pair login kare baki pair aap app2 , super ya app login kar sakte hai but dhyaan de ki aap web ko ek ip par ek hi pair kare
 
 Token generate karke hi app , super and app2 login kare yadi token generate me issue hota hai ya token generate nahi ho raha hai only aise case me hi bina token ke login kare.
