@@ -1,3 +1,5 @@
+Pair ko 3 kar diya gaya hai but aap se request hai aap Web Login 1 ip par ek hi pair login kare baki pair aap app2 , super ya app login kar sakte hai but dhyaan de ki aap web ko ek ip par ek hi pair kare
+
 Token generate karke hi app , super and app2 login kare yadi token generate me issue hota hai ya token generate nahi ho raha hai only aise case me hi bina token ke login kare.
 
 Jinka submit ya payment par ruk raha hai unse request hai fresh id use kare daily same id use karne walo ka yeh issue jada hai.
