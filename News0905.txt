@@ -1,3 +1,5 @@
+Kuch internal changes kiye gaye hai Pair no 2 par jab aap web login kare aur jo browser open hota hai usko full proper load hone de load hone ke baad hi login kare aur login hone ke baad kahi par bhi ek do baar click kare aur RIght click karke I m Not robot kar de.Web login aap 45 se start kar de.
+
 Jis id se aap ac login karte hai us id se selpeer bilkul na login kare warna akamai detection ka issue badh jayega.
 
 1 pair web login jaru kare baki ke 2 pair aap app super ya app2 login kar sakte hai dhyaan rakhe web login ek ip par ek hi login kare.
