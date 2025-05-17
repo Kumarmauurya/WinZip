@@ -1,44 +1,13 @@
-Kuch internal changes kiye gaye hai Pair no 2 par jab aap web login kare aur jo browser open hota hai usko full proper load hone de load hone ke baad hi login kare aur login hone ke baad kahi par bhi ek do baar click kare aur RIght click karke I m Not robot kar de.Web login aap 45 se start kar de.
+!!!!Please Read Very Carefully or else your booking will failed!!!!
 
-Jis id se aap ac login karte hai us id se selpeer bilkul na login kare warna akamai detection ka issue badh jayega.
+Eeb login ke liye aap ek ip agar aap koi bhi private ip use kar rahe hai to us ip par ek pair se jada login bikul bhi na kare warna apka submit par logout aur payment par error aa sakta hai.
 
-1 pair web login jaru kare baki ke 2 pair aap app super ya app2 login kar sakte hai dhyaan rakhe web login ek ip par ek hi login kare.
+Home PC use karne walo users se request hai booking se pehle net ko restart kar le aur ccleaner bhi run kar le.
 
-Pair ko 3 kar diya gaya hai but aap se request hai aap Web Login 1 ip par ek hi pair login kare baki pair aap app2 , super ya app login kar sakte hai but dhyaan de ki aap web ko ek ip par ek hi pair kare
+Booking se pehle bhuul kar bhi apne pc ya us ip par irctc na khole warna ip apki block ho sakti hai.
 
-Token generate karke hi app , super and app2 login kare yadi token generate me issue hota hai ya token generate nahi ho raha hai only aise case me hi bina token ke login kare.
+Ap residential proxy ka istemal kar sakte hai agar apko jada form login karna hai uspar aap jitne chahe utne window login kare bus is baat ka dhyan rakhe ki residential proxy me jab browser puri tarah se load ho jaye tabhi aap Login kare aur I m not robot kare Residential proxy aap kisi bhi company ki use kar sakte hai jaise pyproxy aur dhyan rakhe proxy indian honi chaiyye.
 
-Jinka submit ya payment par ruk raha hai unse request hai fresh id use kare daily same id use karne walo ka yeh issue jada hai.
+App login par fully dependent na rahe kyuki app login ki security bahot tight hai jo har roz update hoti hai aur ham koshis karte hai us update ko ap tak pahocha sake isliye agar ek pair web login ho gaya hai to dusra pair dusrip ip par app login usi form ka aap kar sakte hai.
 
-Ap users se request hai aap only app login par depended na rahe hai har form ke 2 pair khulte hai 1 pair web login kare aur ek pair super ya app2 aise apke form banne ke chance jada rahenge kyuki web login abhi ke time bahot fast aur stable hoke kaam kar raha hai.
-
-Token get wale issue ko solve kar diya gaya hai all users token utna hi generate kare jitna window nhe login karna hai aur token generate aur check karne ke baad hi pair open kare warna apka pair login nahi hoga.
-
-Ji users ya agent ko lagta hai ip block ek bahana hai hamara unse request hai aap ohi ip ko system me dale aur usi ip se irctc browser khole aur check kare login kare aap khud dekh payenge ki un ip per irctc bilkul bhi login allow nahi kar rahi hai.
-
-Linode , aws , vultr in sab ip par irctc ne login disabled kar dia hai to aap se request hai aap home ip ya private ip ka istemal aur ek ip par 2 hi pair login kare usse jada karne se apka kaam kharab ho sakta hai.
-
-Pehle token generate kare aur token ko get kare then only hi pair open kare pair open ke baad agar aap token get karenge to wo work nahi karega isliye dhyan rakhe pehle aap token generate kare fir usko software me get kare fir ticket ko open kare pair  kare aur login kare. Agar APP2 login nahi hota to super kare ya app login kare.
-
-Getting payment infor par ruke wale issue ko solve kar dia gaya hai.
-
-Password change and sync id aap 11;30 ke baad kar sakte hai only residential proxy ke through hi password change aur id sync kare.
-
-Agar app , super ya app2 login karna hai to better yehi hai aap token generate karke login kare bina token bhi aap login kar sakte hai but server pe load hone ki wajah se kabhi kabhi token nahi generate hota hai to agar ap bina token login kar rahe hai aur apko error mesg aata hai token not available on server try again to aap dobara 1-2 baar login kare wo pair login ho jayega.
-
-Toekn aap jab chahe tab generate kar sakte hai.
-
-Irctc ne kafi linuxe ip par login block kar diya hai is wajah se web login me jo browser open hota hai usme aap login nahi kar paate hai to apse request hai agar apke saath aisa ho to aap home ip par login kare ya ip swithc karke login kare.
-
-Home IP par 2 pair web login aap kar sakte hai but dhyan rakhe isse jada login na kare aur app , super and app2 par bhi aap 1 ip par do pair se jada login na kare.
-
-
-Har login mode me steps diye hue hai unhe proper padehe tabhi login sucessfull hoga.
-
-Bank me issue irctc server ki taraf se ho raha hai to yadi apko edge me error aa raha hai to chrome_auto use kare isse koi bhi error nahi aayega.
-
-Bhim NPCI bypass ke issue ko solve kar dia gaya hai.
-
-Chrome_auto me koi extensions ya kuch bhi karne ki jarurat nahi hai bus apko login karna hai browser khulega usme irctc id dal kar login kar dena hai aur kahi bhi righ click karenge apko i m not robot option show ho jayega.
-
-Aur agar chrome_auto me aap slot par login kar rahe hai to jab chrome window me irctc khule to usi ek baar reload kar le yani usi browser me kahi bhi right click karke reload kar le fir same process follow kare aisa karne se payment problem nahi hogi.
+Web Login ke liye aap CHrome_auto , Edge and I m not robot teeno se jo option apko behtar lage ap istemal kar sakte hai... Sucess ratio CHrome_auto ka hai isme jis slot se ap login karenge usi slot ki ip se browser open hoga
