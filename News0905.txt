@@ -1,6 +1,6 @@
-!!!!Please Read Very Carefully or else your booking will failed!!!!
+!!!!Please Read Very Carefully or else your booking will failed!!!! App Login bina token generate kiye na kare
 
-Eeb login ke liye aap ek ip agar aap koi bhi private ip use kar rahe hai to us ip par ek pair se jada login bikul bhi na kare warna apka submit par logout aur payment par error aa sakta hai.
+Web login ke liye aap ek ip agar aap koi bhi private ip use kar rahe hai to us ip par ek pair se jada login bikul bhi na kare warna apka submit par logout aur payment par error aa sakta hai.
 
 Home PC use karne walo users se request hai booking se pehle net ko restart kar le aur ccleaner bhi run kar le.
 
