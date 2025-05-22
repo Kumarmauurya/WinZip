@@ -1,15 +1,13 @@
-###USE ONLY WEB LOGIN TODAY AND DHYAN RAKHE AAP EK IP PAR EK HI PAIR LOGIN KARE JADA KE CHAKKR ME APKA ALL FORM KHARAB HO SAKTA HAI##
+Web login and app login only usi pc me kare jisme browser par web login jo jata hai yani home pc kyuki irctc ne ALmost private ip vps ko block kar dia hai yani un vps pe aap na login kar sakte hai aur na hi ticket booking.
 
-3Pair open honge har form ke 1 pair web login jarur kare baki aap app ya app2 ya sup login kar sakte hai koshis kijiye aap app login ke pair residential proxy par kare.
+isliye normal pc use kare.
 
-Web login ke liye aap ek ip agar aap koi bhi private ip use kar rahe hai to us ip par ek pair se jada login bikul bhi na kare warna apka submit par logout aur payment par error aa sakta hai.
+Disha login ka istemal kare isme booking fast hai only apko final otp usi mobile aur email par aayega jo irctc id par registered hai .
 
-Home PC use karne walo users se request hai booking se pehle net ko restart kar le aur ccleaner bhi run kar le.
+Disha login aap kisi bhi mobile number se kar sakte hai.
 
-Booking se pehle bhuul kar bhi apne pc ya us ip par irctc na khole warna ip apki block ho sakti hai.
+Aj hamari team new security update ko monitor karegi aur aaj raat tak apko update diya jayega tab tak apse request hai please cooperate kare.
 
-Ap residential proxy ka istemal kar sakte hai agar apko jada form login karna hai uspar aap jitne chahe utne window login kare bus is baat ka dhyan rakhe ki residential proxy me jab browser puri tarah se load ho jaye tabhi aap Login kare aur I m not robot kare Residential proxy aap kisi bhi company ki use kar sakte hai jaise pyproxy aur dhyan rakhe proxy indian honi chaiyye.
+Koi bhi fake news ya rumours par bilkul dhyan na de if koi news hogi to ham apko apne official channel dwara inform karenge.
 
-App login par fully dependent na rahe kyuki app login ki security bahot tight hai jo har roz update hoti hai aur ham koshis karte hai us update ko ap tak pahocha sake isliye agar ek pair web login ho gaya hai to dusra pair dusrip ip par app login usi form ka aap kar sakte hai.
-
-Web Login ke liye aap CHrome_auto , Edge and I m not robot teeno se jo option apko behtar lage ap istemal kar sakte hai... Sucess ratio CHrome_auto ka hai isme jis slot se ap login karenge usi slot ki ip se browser open hoga
+Token jada generate kare aur app , app2 and sup ke pair jada login kare.
