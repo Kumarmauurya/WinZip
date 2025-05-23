@@ -1,11 +1,4 @@
-Web Login only usi pc me work karega jisme irctc browser par login hoga.
-
-##Dhyaan de jab chrome script se aap chrome open karenge to usme apko irctc id se login karna hai aur right click karke i m not robot karna hai fir usi window par koi bhi train search karni hai aur train search ho jane ke baad dobara i m not robot karna hai aise do baar karne se apka web wala pair login ho jayega.##
-
-Lekin dhyan yeh dena ki web login sirf home ip par chal raha hai all private ip ko irctc ne block kar dia hai.
-
-App login bhi aap kare token generate karke agar 1 pair web login ho gaya hai to baki ke pair aap app , sup ya app2 login kar de.
-
+23May 2025 Update ko reverse back kia gaya hai kyuki file me kuch problem thi isliye if new file update hoti hai to apko inform kia jayega.
 Web login and app login only usi pc me kare jisme browser par web login jo jata hai yani home pc kyuki irctc ne ALmost private ip vps ko block kar dia hai yani un vps pe aap na login kar sakte hai aur na hi ticket booking.
 
 isliye normal pc use kare.
