@@ -1,4 +1,7 @@
-23May 2025 Update ko reverse back kia gaya hai kyuki file me kuch problem thi isliye if new file update hoti hai to apko inform kia jayega.
+Web Login karne par chrome window open hoga apko us window me login karna hai login ho jane ke baad i m not robot kar dena hai aur fir train search karni hai koi bhi stn code dal kar train search hone par fir se i m not robot kare apka pair login ho jayega aur chrome auto close ho jayega
+
+Only 1 pair web login kare wo bhi web login usi pc me work karega jisme chrome par irctc id login ho baki pair different ip se aap aap loign super login app2 login kar de.
+
 Web login and app login only usi pc me kare jisme browser par web login jo jata hai yani home pc kyuki irctc ne ALmost private ip vps ko block kar dia hai yani un vps pe aap na login kar sakte hai aur na hi ticket booking.
 
 isliye normal pc use kare.
