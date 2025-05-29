@@ -1,4 +1,6 @@
-Web Login karne par chrome window open hoga apko us window me login karna hai login ho jane ke baad i m not robot kar dena hai aur fir train search karni hai koi bhi stn code dal kar train search hone par fir se i m not robot kare apka pair login ho jayega aur chrome auto close ho jayega
+Web Login ke liye jo chrome window open hoga usme apko 3 baar i m not robot karna hai yani ek login ke baad ek train search karne par aur teesra randomly kahi bhi 4-5 baar click karke aap i m not robot kar de pair to login ho jayega lekin agar apka id ya ip me dikkat hai to wo payment par hi atak jayega
+
+Baki login ke liye token ka istemla kare
 
 Only 1 pair web login kare wo bhi web login usi pc me work karega jisme chrome par irctc id login ho baki pair different ip se aap aap loign super login app2 login kar de.
 
