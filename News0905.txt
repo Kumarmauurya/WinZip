@@ -1,3 +1,7 @@
+Web Login me update kiye gaye hai all users se request hai ek baar test kar le third i m not robot apko final captcha enter karna then i m not robot par clik karna hai total 3 times i m not robot karna hoga.
+
+App , sup and app2 login token generate kare aur usko bhi aap test kar sakte hai fresh ip aur normal system ka istemaal kare.
+
 Web login 1 ip par ek pair login kare aur fresh ip and fresh irctc id use kare jisme irctc payment block na ho.
 
 jo browser open hota hai usme ohi irctc id se login kareke i m not robot kare jo irctc id apne pair me select ki hai.
